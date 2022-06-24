@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<div id="card">
+  <div id="card-inside">
+    <div class="wrap">
+     <p>Hey Babe❤️</p>
+      <p> Happy birthday to the man who lights up my world❤️ 🧡 💛 💚 💙 💜🤎 </p>
+      <p> I wish that the Almighty blesses you with good luck🎋happiness😍good health❤️ and success ☃️ in every walk of your life🌈 You truly deserve it.😚</p>
+      <p>I will be there with you in your heart❤️ and soul whenever you seek me.🍂</p>
+       <p> I love you ❤️💞
+      </p>
+
+      <p class="signed">Your Love</p>
+
+    </div>
+  </div>
+
+  <div id="card-front">
+    <div class="wrap">
+      <h1>Happy Birthday 🌈</h1>
+     
+  </div>
+    <button id="open">&gt;</button>
+    <button id="close">&lt;</button>
+  </div>
+</div>
+</html>
