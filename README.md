@@ -1,2 +1,2 @@
 # birthday-card
-For loved one
+For Loved one
